@@ -6,7 +6,7 @@
 import random
 
 # Generate and print a random integer between 1 and 100
-correctNumber = random.randint(1, 100)
+correctNumber = random.randint(1, 101)
 # print(correctNumber)  # Uncomment to validate that the program is working properly
 
 # Print the introduction and rules to the number guessing game
